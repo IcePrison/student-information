@@ -1,0 +1,81 @@
+.divall{
+	background-color: #F0ECE9;
+	width:1366px;
+	height: 720px;
+	position: relative;
+	margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    padding: 0;
+    border: 0
+}
+.divInside{
+	background-color: #F0ECE9;
+	width:1332px;
+	height: 720px;
+	position: relative;
+	margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+}
+.head{
+	background-color: #F0ECE9;
+	width: 1332px;
+	height: 60px;
+	position: relative;
+}
+.head1{
+	background-color: #F0ECE9;
+	width: 1332px;
+	height: 60px;
+	position: relative;
+}
+.headLeft{
+	background-color: #C3A080;
+	width:443px;
+	height: 5px;
+	position: relative;
+	top: 25px;
+}
+.title{
+	width: 480px;
+	height: 60px;
+	background-color: #F0ECE9;
+	padding-top: 10px;
+    font-size: 26px;
+    line-height: 25px;
+    text-align: center;
+    position: absolute;
+    color: #999999;
+    left: 444px;
+}
+.headRight{ 
+	background-color: #C3A080;
+	width: 443px;
+    height: 5px;
+    position: absolute;
+    top: 25px;
+    left: 888px;
+}
+.show{
+	background: #5CB85C;
+    width: 105px;
+    height: 40px;
+    font-size: 16px;
+    color: white;
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+.delete{
+	background: #D9534F;
+    width: 105px;
+    height: 40px;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
