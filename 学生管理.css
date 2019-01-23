@@ -1,4 +1,4 @@
-.divall{
+.divAll{
 	background-color: #F0ECE9;
 	width:1366px;
 	height: 720px;
@@ -78,4 +78,50 @@
     margin: 0;
     padding: 0;
     border: 0;
+}
+.table{
+	width: 1332px;
+	height: 502px;
+	background: white;
+	position: relative;
+	margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+}
+.botton{
+	height: 60px;
+    width: 1332px;
+    margin: 0;
+    padding-top: 20px;
+    position: relative;
+    background: #F0ECE9;
+}
+.pre{
+	background: #5CB85C;
+    width: 105px;
+    height: 40px;
+    font-size: 16px;
+    color: white;
+    border: 0;
+    padding: 0;
+    margin-right: 10px;
+    float: right;
+}
+.behind{
+	background: #D9534F;
+    width: 105px;
+    height: 40px;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    float: right;
+}
+.span1{
+	color: blue;
+}
+.span2{
+	color: blue;
 }
